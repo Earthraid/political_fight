@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="384" height="384"
+     viewBox="0 0 48 48"
+     shape-rendering="crispEdges">
+
+  <!-- head outline -->
+  <rect x="10" y="6" width="28" height="26" fill="#0a0a0a"/>
+  <!-- face -->
+  <rect x="11" y="7" width="26" height="24" fill="#e9c3a1"/>
+
+  <!-- face planes -->
+  <rect x="11" y="18" width="26" height="5" fill="#d6a783"/>
+  <rect x="14" y="23" width="20" height="3" fill="#b98562"/>
+
+  <!-- hair (dark, slicked) -->
+  <rect x="11" y="7" width="26" height="4" fill="#2b2b2b"/>
+  <rect x="13" y="11" width="22" height="1" fill="#1e1e1e"/>
+
+  <!-- eyebrows -->
+  <rect x="16" y="14" width="6" height="1" fill="#1e1e1e"/>
+  <rect x="26" y="14" width="6" height="1" fill="#1e1e1e"/>
+
+  <!-- eyes -->
+  <rect x="18" y="17" width="2" height="1" fill="#0a0a0a"/>
+  <rect x="28" y="17" width="2" height="1" fill="#0a0a0a"/>
+
+  <!-- nose -->
+  <rect x="23" y="18" width="2" height="5" fill="#b98562"/>
+
+  <!-- mouth (tight smirk) -->
+  <rect x="20" y="26" width="8" height="1" fill="#8a3a32"/>
+
+  <!-- neck -->
+  <rect x="20" y="31" width="8" height="4" fill="#b98562"/>
+
+  <!-- shirt -->
+  <rect x="6" y="35" width="36" height="9" fill="#111111"/>
+
+  <!-- BITCOIN B (blocky ₿) -->
+  <!-- left spine -->
+  <rect x="21" y="37" width="1" height="5" fill="#f5a623"/>
+  <!-- top bar -->
+  <rect x="22" y="37" width="4" height="1" fill="#f5a623"/>
+  <!-- mid bar -->
+  <rect x="22" y="39" width="4" height="1" fill="#f5a623"/>
+  <!-- bottom bar -->
+  <rect x="22" y="41" width="4" height="1" fill="#f5a623"/>
+  <!-- right bowls -->
+  <rect x="26" y="38" width="1" height="1" fill="#f5a623"/>
+  <rect x="26" y="40" width="1" height="1" fill="#f5a623"/>
+  <!-- vertical ticks (₿ hint) -->
+  <rect x="23" y="36" width="1" height="1" fill="#f5a623"/>
+  <rect x="23" y="42" width="1" height="1" fill="#f5a623"/>
+
+</svg>

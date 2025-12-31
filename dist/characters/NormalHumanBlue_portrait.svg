@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="#162a60"/>
+  <rect x="40" y="40" width="120" height="120" rx="16" fill="#0b1736" stroke="#b3c8ff" stroke-width="6"/>
+  <path d="M80 120 v-34 a20 20 0 0 1 40 0 v34" fill="none" stroke="#b3c8ff" stroke-width="10"/>
+  <rect x="60" y="120" width="80" height="30" rx="8" fill="#7aa4ff"/>
+  <text x="100" y="145" font-size="20" fill="#0b1736" font-family="monospace" text-anchor="middle" dominant-baseline="middle">LOCK</text>
+</svg>
