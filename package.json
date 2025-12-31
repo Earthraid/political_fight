@@ -1,0 +1,12 @@
+{
+  "name": "political_fight",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.1.0"
+  }
+}

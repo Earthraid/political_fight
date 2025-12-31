@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="384" height="384"
+     viewBox="0 0 48 48"
+     shape-rendering="crispEdges">
+
+  <!-- head outline -->
+  <rect x="10" y="6" width="28" height="26" fill="#0a0a0a"/>
+
+  <!-- face -->
+  <rect x="11" y="7" width="26" height="24" fill="#f2cdb0"/>
+
+  <!-- face planes (lighter, no stubble read) -->
+  <rect x="11" y="19" width="26" height="3" fill="#e6b996"/>
+  <rect x="15" y="22" width="18" height="2" fill="#d8a883"/>
+
+  <!-- hair (blonde bob) -->
+  <rect x="11" y="7" width="26" height="4" fill="#d8c18b"/>
+  <rect x="11" y="11" width="4" height="6" fill="#c8ae73"/>
+  <rect x="33" y="11" width="4" height="6" fill="#c8ae73"/>
+  <rect x="15" y="11" width="18" height="1" fill="#c8ae73"/>
+
+  <!-- glasses -->
+  <rect x="15" y="14" width="7" height="4" fill="#1a1a1a"/>
+  <rect x="22" y="15" width="2" height="1" fill="#1a1a1a"/>
+  <rect x="24" y="14" width="7" height="4" fill="#1a1a1a"/>
+  <rect x="16" y="15" width="5" height="2" fill="#2e2e2e"/>
+  <rect x="25" y="15" width="5" height="2" fill="#2e2e2e"/>
+
+  <!-- eyes -->
+  <rect x="18" y="16" width="1" height="1" fill="#e6efff"/>
+  <rect x="28" y="16" width="1" height="1" fill="#e6efff"/>
+
+  <!-- nose (shorter) -->
+  <rect x="23" y="17" width="2" height="4" fill="#d8a883"/>
+
+  <!-- mouth (lipstick, raised) -->
+  <rect x="21" y="24" width="6" height="1" fill="#b14b5a"/>
+  <rect x="22" y="23" width="4" height="1" fill="#c65a6a"/>
+
+  <!-- neck -->
+  <rect x="20" y="31" width="8" height="4" fill="#d8a883"/>
+
+  <!-- dress body -->
+  <rect x="12" y="35" width="24" height="10" fill="#f0d34a"/>
+
+  <!-- ruffled sleeves -->
+  <rect x="4" y="34" width="10" height="11" fill="#f3db63"/>
+  <rect x="34" y="34" width="10" height="11" fill="#f3db63"/>
+
+</svg>
