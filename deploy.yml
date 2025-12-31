@@ -11,7 +11,8 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  # Temporarily use a unique group per run to bypass a stuck deployment; revert to "pages" later
+  group: pages-${{ github.run_id }}
   cancel-in-progress: true
 
 jobs:
