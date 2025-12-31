@@ -33,11 +33,13 @@ type Fighter = {
 
 const imageCache = new Map<string, HTMLImageElement>();
 const getImage = (path: string) => {
+  const withBase = (p: string) =>
+    `${import.meta.env.BASE_URL}${p.startsWith("/") ? p.slice(1) : p}`;
   const key = path;
   let img = imageCache.get(key);
   if (!img) {
     img = new Image();
-    img.src = path.startsWith("/") ? path : `/${path}`;
+    img.src = withBase(path);
     imageCache.set(key, img);
   }
   return img;
