@@ -155,7 +155,7 @@ const characterList: CharacterDefinition[] = [
     "BLUE",
     { walkSpeed: 4.5, jumpVelocity: 5, maxHP: 118 },
     {
-      normal: { name: "No Explanation", startup: 4, active: 2, recovery: 9, knockback: 4 },
+      normal: { name: "Don't Impeach", startup: 4, active: 2, recovery: 9, knockback: 4 },
       special: {
         name: "Trade Stocks",
         startup: 6,
